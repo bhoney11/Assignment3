@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Page</title>
+    <link rel="stylesheet" href="style.css">
+<header class="navbar">
+    <div class="logo">ChooseYourDestiny!</div>
+    <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</header>
+    <div class="card-container">
+        <div class="card">
+            <img src="hermit (1).jpg" alt="Card 1">
+            <h3>Mysterious Card </h3>
+            <p>“No one knows what’s inside… not even us. Pick it if you like surprises and questionable life choices.</p>
+            <button>Choose</button>
+        </div>
+
+        <div class="card">
+            <img src="wheel (1).jpg" alt="Card 2">
+            <h3>Lucky Card </h3>
+            <p>Legend says whoever picks this card will find money in an old jacket pocket. Maybe. Possibly. Don’t quote us.”</p>
+            <button>Choose</button>
+        </div>
+
+        <div class="card">
+            <img src="Fool.jpg" alt="Card 3">
+            <h3>Charm Card</h3>
+            <p>“Guaranteed to boost charisma by +10. Side effects may include random winks and finger guns.”</p>
+            <button>Choose</button>
+        </div>
+        <a href="Ass3.html">ass3</a>
+
+    </div>
